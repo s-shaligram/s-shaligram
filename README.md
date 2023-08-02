@@ -2,7 +2,7 @@
 
 ## Full stack Engineer • Gamer
 
-Things I love: Gaming and movies.
+Things I love: Gaming and movies
 
 ## 🌏 How to reach me 
 
