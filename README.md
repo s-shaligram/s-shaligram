@@ -1,11 +1,11 @@
-### Hi, I am Sameer Shaligram 👋
+# Hi, I am Sameer Shaligram 👋
 
-Full stack Engineer • Gamer
+## Full stack Engineer • Gamer
 
-Things I love: Java, Javascript, React Native, games and apps.
+Things I love: Gaming and movies.
 
-🌏 How to reach me 
+## 🌏 How to reach me 
 
-Say hi to me shaligramsameers@gmail.com
+### Say hi to me shaligramsameers@gmail.com
 
 Have a nice Day! 😄
