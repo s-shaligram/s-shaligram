@@ -1,6 +1,6 @@
 # Hi, I am Sameer Shaligram 👋
 
-## Full stack Engineer • Gamer
+## Full Stack Engineer • Gamer
 
 Things I love: Gaming and movies
 
